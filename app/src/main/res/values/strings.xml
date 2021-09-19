@@ -19,4 +19,19 @@
         Que ver en Japón: El estanque azul, Bosque de bambu de Sagano, Volcán Aogashima,
         Monte Koya, Isla Shikoku, Jardón Kenrokuen, Castillo de matsumoto,Cascada Nachi,
         Península de Noto, Valle de Kiso, Shososhima, entre muchos otros lugares.</string>
+
+    <string name="action_settings">Configuraciones</string>
+    <string name="poi_thumb">Poi Thubmnail Picture</string>
+    <string name="action_clear">Limpiar</string>
+    <string name="new_poi">Nuevo POI</string>
+    <string name="save">Guardar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="poi_not_valid">Please enter valid poi information</string>
+    <string name="action_generate">Generar</string>
+    <string name="name">Nombre</string>
+    <string name="description">Descripción</string>
+    <string name="punctuation">Puntuación</string>
+    <string name="Edit">Editar</string>
+    <string name="action_sort_name">Ordenar por Nombre</string>
+    <string name="action_sort_punctuation">Ordenar por puntuación</string>
 </resources>
