@@ -23,11 +23,9 @@
             android:layout_marginBottom="8dp"
             android:contentDescription="@string/poi_thumb"
             android:scaleType="centerCrop"
-            android:src="@drawable/shibuya"
             app:layout_constraintBottom_toBottomOf="parent"
             app:layout_constraintLeft_toLeftOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            app:srcCompat="@drawable/ic_poi"
             tools:src="@mipmap/ic_launcher" />
 
         <TextView

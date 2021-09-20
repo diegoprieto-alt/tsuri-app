@@ -23,7 +23,6 @@ class MainActivity : AppCompatActivity() {
         recycler = findViewById(R.id.poi_list)
         setupRecyclerView()
         generatePois()
-//        mContacts = createMockContacts()
     }
 
     /**
@@ -87,15 +86,6 @@ class MainActivity : AppCompatActivity() {
         }
 
         return poisString
-    }
-
-    private fun createMockPois(): ArrayList<Poi> {
-        return arrayListOf(
-            Poi("Jose", "Perez", "jose@gmail.com","shibuya"),
-            Poi("Jose", "Perez", "jose@gmail.com","shibuya"),
-            Poi("Jose", "Perez", "jose@gmail.com","shibuya"),
-            Poi("Juan", "Perez", "juan@gmail.com","shibuya")
-        )
     }
 
     companion object {
